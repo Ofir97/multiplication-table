@@ -1,4 +1,4 @@
 # multiplication-table
 multiplication table created with html, css and ts
 
-link to project: https://pengoled.github.io/multiplication-table/
+link to project: https://ofir97.github.io/multiplication-table/
